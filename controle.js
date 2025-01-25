@@ -1,7 +1,3 @@
-/**
-Comandos
-*/
-
 function on(){
 	document.getElementById("lamp").src = "on.jpg";
 }
